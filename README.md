@@ -1,5 +1,6 @@
 <b>Objective:</b> To understand the basic concepts of ARIMA, SARIMA and SARIMAX and apply them to forecast future data points in Time Series Analysis.<br>
 
+<b> Data: </b> https://www.kaggle.com/datasets/andreazzini/international-airline-passengers <br>
 <b>Concepts:</b>
 * ACF, PACF
 * Seasonal Decomposition
